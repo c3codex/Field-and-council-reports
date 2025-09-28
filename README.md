@@ -58,6 +58,8 @@ Each report should follow this structure for consistency:
 
 - Reports feed into **Codexstone Governance** (as precedent + field record).  
 - Supplements preserve perspective of distinct Council roles.  
-- Monthly and seasonal digests can be created by weaving individual reports together.  
+- Monthly and seasonal digests can be created by weaving individual reports together.
+
+- ![Codexstone Seal](https://github.com/c3codex/assets/blob/main/Codexstone_Seal.PNG?raw=true)
 
 ---
