@@ -15,3 +15,4 @@ Each entry is a **living record**: breath, presence, decision, and resonance.
 ---
 
 ✦ *“Every report is a scroll; every scroll a ledger.”*
+![Codexstone Seal](https://github.com/c3codex/assets/blob/main/Codexstone_Seal.PNG?raw=true)
