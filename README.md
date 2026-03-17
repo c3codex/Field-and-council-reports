@@ -1,3 +1,16 @@
+# Sealed Archive Notice
+
+This repository is retained for historical reference only and does not reflect the current c3 Field architecture or source of truth.
+
+Current source of truth:
+c3codex/c3-field
+
+Status: Sealed Archive
+Authority: None
+
+
+
+
 # Field-and-council-reports
 Personal field reflections and council reports of the c3 Codex — living records of breath, presence, and decision, to later ground Codexstone governance.”
 # ✦ Field-and-Council Reports ✦  
